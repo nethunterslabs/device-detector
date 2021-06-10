@@ -1,0 +1,16 @@
+[package]
+name = "device-detector"
+version = "0.1.0"
+authors = ["Txuritan <txuritan@protonmail.com>"]
+edition = "2018"
+
+description = "A Rust port of Matomo's DeviceDetector v4.2.3"
+repository = "https://github.com/stry-rs/device-detector"
+
+readme = "README.md"
+license = "LGPL-3.0"
+
+categories = [ "parser-implementations" ]
+keywords = [ "useragent", "user-agent", "parser", "devicedetection", "device-detection" ]
+
+[dependencies]
